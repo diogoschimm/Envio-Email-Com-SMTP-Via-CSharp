@@ -31,3 +31,7 @@ Abaixo o código para enviar e-mail utilizando SMTP Externo
       }
   } 
 ```
+
+Tela do sistema
+
+![image](https://user-images.githubusercontent.com/30643035/100935465-82596e00-34c6-11eb-9d09-08e735b9c62a.png)
