@@ -3,6 +3,10 @@
 Abaixo o código para enviar e-mail utilizando SMTP Externo
 
 ```c#
+  using System.Net;
+  using System.Net.Mail;
+
+
   private void btnEnviar_Click(object sender, EventArgs e)
   {
       try
