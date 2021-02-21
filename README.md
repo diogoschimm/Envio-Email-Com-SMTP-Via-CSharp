@@ -1,5 +1,22 @@
 # Envio-Email-Com-SMTP-Via-CSharp
 
+## Provedores
+
+```
+  gmail
+  Host: smtp.gmail.com
+  Port: 587
+  SSL: True
+  Necessário habilitar Apps menos seguros
+  
+  hotmail
+  Host: smtp.live.com
+  Port: 587
+  SSL: true
+   
+  
+```
+
 Abaixo o código para enviar e-mail utilizando SMTP Externo
 
 ```c#
